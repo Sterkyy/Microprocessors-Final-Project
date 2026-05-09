@@ -44,7 +44,7 @@ The system includes an OLED menu interface, difficulty selection, button input h
 |---|---|
 | Red Button | D2 |
 | Blue Button | D4 |
-| Green Button | D6 |
+| Green Button | D7 |
 | Red LED | D8 |
 | Blue LED | D9 |
 | Green LED | D10 |
