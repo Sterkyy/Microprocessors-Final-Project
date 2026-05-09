@@ -38,6 +38,12 @@ The system includes an OLED menu interface, difficulty selection, button input h
 | Breadboard | Circuit prototyping |
 | Jumper Wires | Electrical connections |
 
+## Circuit Diagram
+
+The following figure shows the complete circuit implementation developed for the project, including the Arduino UNO, OLED display, push buttons, LEDs, and resistor connections.
+
+![Circuit Diagram](MicroFinalCircuit.png)
+
 ## Pin Configuration
 
 | Component | Arduino Pin |
